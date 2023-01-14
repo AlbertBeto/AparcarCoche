@@ -1,5 +1,5 @@
 package com.desarrollos.entde;
-
+// He abierto y com oparece pensado totalmente para eclipse y no lo tengo ni instalado he creado la rama y introducido esta linea. Saludos
 import java.util.Arrays;
 import java.awt.Color;
 /**
@@ -12,10 +12,10 @@ public class Car
 {
     // Attributes of the class Car
     static int numberWheels = 4;                // Number of wheels                           
-    
+
     Garage theGarage=null;
 
-    
+
     /**
      * Constructor of a car specifying the garage object
      */
@@ -37,7 +37,7 @@ public class Car
 //        turnRight();
 //        turnHeadlightsOn();
 //        turnHeadlightsOff();
-    }    
+    }
 
     /**
      * Accelerate the car
